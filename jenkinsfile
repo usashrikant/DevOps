@@ -1,0 +1,12 @@
+pipeline {
+    agent any | none
+
+    stages('') {
+        stage(''){
+            steps{
+                //scriptssprintsprintspri
+            }
+        }
+    }
+
+}
